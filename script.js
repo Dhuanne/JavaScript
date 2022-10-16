@@ -1,6 +1,6 @@
 // Software Engineering Multiple Choice
 const quizData = [
-    {
+    {       // Multiple Choice
             // 1st Question
             question: "Which of the following is NOT included in Generic Process Models?",
             a: "Waterfall model",
