@@ -1,1 +1,154 @@
+SOFTWARE ENGINEERING
+IDENTIFICATION 10pts.
+It is a concrete model of how a system will appear or behave, and usually depict the user interface.
+Prototype
+It is a non-functional user interface layout that uses actual GUI components and validates UI design.
+Mockup
+Its main goal is to build a very robust prototype in a structured manner and constantly refine it
+Evolutionary prototyping
+It is the process of applying various techniques and principles for the purpose of defining a device, process or system in sufficient detail to permit its physical realization.
+Design
+It refers to the iterative process through which requirements are translated into a “blueprint” for building software.
+Software Design
+It establishes a basic structural framework that identifies the major components of a system and the communication among these components.
+Architectural Design
+It leads to the accurate specification of requirements, and the construction of a valid and useable system from the users’ perspective via conventional software development models
+Throwaway prototyping
+It consists of a central data store and a set of independent components that access the data store.
+Repository
+This Architectural Style’s system is organized as a set of services and associated servers and clients that access and use these services.
+Client-server
+It exploits diverse connectivity between participants in a network and the cumulative bandwidth of the network participants.
+Peer-to-peer
 
+MULTIPLE CHOICE 10pts.
+Which of the following is NOT included in Generic Process Models?
+Waterfall model
+Evolutionary development
+Formal systems development
+Use-based development
+None of the above
+Which of the following is NOT included in Specific Process Models?
+Incremental model
+Object-Based Development Model
+Spiral Development Model
+Package-Based Development Model
+None of the above
+Which of the following is NOT included in Characteristics of Software?
+Software does “wear out”.
+Software is abstract and intangible.
+Software is developed or engineered; it is not manufactured in the classical sense.
+Most software is custom-built, rather than being assembled from existing components.
+None of the above
+Which of the following is NOT included in Fundamental Process Activities of Software Process?
+Specification
+Development
+Validation
+Evolution
+None of the above
+Which of the following is NOT an advantage of the Waterfall Model?
+Very clear from a managerial viewpoint - easy to model, plan, monitor, and understand
+Many existing tools support this model
+Development is relatively slow and deliberate and thus, results in solid, well-constructed systems
+Last explicit process model
+None of the above
+Which of the following is NOT a description of Waterfall model?
+Linear sequential model
+Describe a set of clear stages in the development process
+Based on engineering practice
+Still used for large systems engineering projects
+None of the above
+Which of the following is NOT a disadvantage of Evolutionary Development?
+Cost, time, and resource estimation is difficult
+Process is not visible
+Progress is difficult to measure
+Less effective than waterfall model
+None of the above
+Which of the following is NOT a description of Incremental model?
+Suggested by Mills 1980
+In between waterfall and evolutionary
+Increase rework in the development process
+Give customers opportunity to delay decisions
+None of the above
+Which of the following is NOT an advantage of Spiral Development Model?
+delayed error elimination
+Puts quality objectives up front
+Integrates development and maintenance
+Provides a framework for simultaneous hardware/software development
+None of the above
+Which of the following is NOT included in best practices for Rational Unified Process?
+Develop software iteratively
+Manage requirements
+Component based architecture
+Visually model software
+None of the above
+
+TRUE OR FALSE 10pts.
+User requirements are typically stated in natural language.
+TRUE
+Software is abstracted and intangible.
+TRUE
+Based on the transformation of a mathematical specification through different representations to an executable program.
+TRUE
+Transformations are ‘Cleanroom’ so it is straightforward to show that the program conforms to its specification.
+FALSE
+Based on the idea of manufacturing semi-conductors in a “cleanroom environment”.
+TRUE
+Communication focuses on unit tests (written before the code is made) and running periodic integration tests; functional tests are conducted based on the “user stories”; programmers and customers get concrete feedback.
+FALSE
+Feedback favors simple designs, common metaphors, collaboration of users and programmers, frequent verbal communication, and feedback.
+FALSE
+Courage code for today and not tomorrow; refactoring; persistence; knowing when to throw code away.
+TRUE
+Black Box shows data implementation but hides process implementation; describes how "state" information is transformed.
+FALSE
+Clear Box hides data implementation and process implementation. It describes how a system responds to stimuli, usually in a formal specification language.
+FALSE
+
+NUMERICAL METHODS
+
+IDENTIFICATION 10pts.
+These are techniques by which mathematical problems are formulated so that they can be solved with arithmetic operations.
+Numerical methods
+It refers to how closely a computed or measured value agrees with the true value.
+Accuracy
+It is a type of incremental search method in which the interval is always divided in half.
+Bolzano’s method
+This is the discrepancy introduced by the fact that numerical methods may employ approximations to represent exact mathematical operations and quantities.
+Transaction error
+A kind of error that is not directly connected with numerical methods.
+Formulation error
+When computer programs are divided into small subprograms which can be developed and tested separately then we are doing an approach called.
+Modular programming
+This software is produced by Microsoft, Inc. that allows the user to enter and perform calculations on rows and columns of data.
+Excel
+It refers to how closely individuals computed or measured agree with each other.
+Precision
+It refers to the systematic deviation from the truth.
+Inaccuracy
+It refers to the magnitude of the scatter of the approximate values.
+Imprecision
+
+TRUE OR FALSE 10pts.
+If in some instances that we will have with us the availability of an analytical solution then we will have the capability to compute the error approximately.
+False
+A function typically changes sign in the vicinity of a root.
+True
+An exception to the general case is that when the function is tangential to the x axis and the end points are of opposite signs, there are an even number of axis intersections for the interval.
+True
+Graphical techniques are of limited practical value because they are not precise but they can be utilized to obtain rough estimates of roots.
+True
+Given an upper bound and a lower bound, when a function changes sign in an interval, then there will generally be an even number of roots.
+False
+In the bisection algorithm, to determine the subinterval in the next iteration, the following conditional statement is legitimate: If f(xuf(xr) is negative, the root lies in the lower subinterval.
+False
+The secant method use the derivative instead of a difference to estimate the slope.
+False
+Muller’s method uses the idea of projecting a line through two points on the x-axis to estimate the root.
+False
+Bairstow’s method is generally based on the mathematical process of dividing a polynomial by a quadratic factor.
+True
+The bisection method, which is alternatively called binary chopping, interval halving, or Bolzano’s method, is one type of incremental search method in which the interval is always divided in half.
+True
+
+PROBLEM SOLVING 20pts. Solving na dito (Ikaw na dito Kent)
