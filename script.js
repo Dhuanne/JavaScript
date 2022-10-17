@@ -1,5 +1,8 @@
+// Software Engineering Fill in the Blanks
+
+
 // Software Engineering Multiple Choice
-const quizData = [
+const quizDataMC = [
     {       // Multiple Choice
             // 1st Question
             question: "Which of the following is NOT included in Generic Process Models?",
@@ -123,7 +126,7 @@ const quizData = [
     
         deselectAnswers()
     
-        const currentQuizData = quizData[currentQuiz]
+        const currentQuizData = quizDataMC[currentQuiz]
     
         questionEl.innerText = currentQuizData.question
         a_text.innerText = currentQuizData.a
@@ -151,17 +154,17 @@ const quizData = [
     submitBtn.addEventListener('click', () => {
         const answer = getSelected()
         if(answer) {
-           if(answer === quizData[currentQuiz].correct) {
+           if(answer === quizDataMC[currentQuiz].correct) {
                score++
            }
     
            currentQuiz++
     
-           if(currentQuiz < quizData.length) {
+           if(currentQuiz < quizDataMC.length) {
                loadQuiz()
            } else {
                quiz.innerHTML = `
-               <h2>You answered ${score}/${quizData.length} questions correctly</h2>
+               <h2>You answered ${score}/${quizDataMC.length} questions correctly</h2>
     
                <button onclick="location.reload()">Reload</button>
                `
