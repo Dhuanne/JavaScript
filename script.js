@@ -4,7 +4,7 @@
 
 // To get score
 function checkIdentification(identificationScore) {
-    // Variable
+    // Score Variable
     var identificationScore = 0;
 
     // Identification
@@ -22,11 +22,11 @@ function checkIdentification(identificationScore) {
     // Checking Identification
     if (q1Identification == "Prototype") {identificationScore++}
     if (q2Identification == "Mockup") {identificationScore++}
-    if (q3Identification == "Evolutionary prototyping") {identificationScore++}
+    if (q3Identification == "Evolutionary Prototyping") {identificationScore++}
     if (q4Identification == "Design") {identificationScore++}
     if (q5Identification == "Software Design") {identificationScore++}
     if (q6Identification == "Architectural Design") {identificationScore++}
-    if (q7Identification == "Throwaway prototyping") {identificationScore++}
+    if (q7Identification == "Throwaway Prototyping") {identificationScore++}
     if (q8Identification == "Repository") {identificationScore++}
     if (q9Identification == "Client-server") {identificationScore++}
     if (q10Identification == "Peer-to-peer") {identificationScore++}
@@ -42,12 +42,8 @@ function checkIdentification(identificationScore) {
 // }
 
 function check() {
-    
-
-    // Identification
-    // var q1Identification = document.getElementById("myInput").value;
-
-
+    // Score variable
+    var eliminationScore = 0;
 
     // Elimination
     var q1=document.softEngElimination.question1.value;
@@ -62,12 +58,6 @@ function check() {
     var q10=document.softEngElimination.question10.value;
 
     // If true add score
-
-    // Identification
-    // if (q1Identification == 2) {score++}
-
-
-    // Elimination
     if (q1 == "Use-based development") {eliminationScore++}
     if (q2 == "Object-Based Development Model") {eliminationScore++}
     if (q3 == "Software does “wear out”") {eliminationScore++}
@@ -79,11 +69,11 @@ function check() {
     if (q9 == "Delayed error elimination") {eliminationScore++}
     if (q10 == "None of the above") {eliminationScore++}
 
-    // Score
-    var eliminationScore = 0;
-    var identificationScore = checkIdentification();
-    var allScore = identificationScore + eliminationScore;
 
-    // All score
-    document.write("Your score is: " + allScore);
+    function allScore() {
+        var identificationScore = checkIdentification();
+        var allScore = identificationScore + eliminationScore;
+        // All score
+        document.write("Your score is: " + allScore);
+    }
 }

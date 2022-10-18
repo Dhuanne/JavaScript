@@ -1,5 +1,23 @@
 /* Software Engineering Identification*/
+.softEngIdentification-section{
+  background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url(Images/HomepageBackground.jpg);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin: 0;
+}
 
+.identification-container{
+  background-color: beige;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 2px rgba(100, 100, 100, 0.1);
+  width: 800px;
+  height: 2000px;
+  overflow: hidden;
+}
 
 
 /* Software Engineering Elimination */
