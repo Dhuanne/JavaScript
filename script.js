@@ -69,7 +69,7 @@ function check() {
     if (q9 == "Delayed error elimination") {eliminationScore++}
     if (q10 == "None of the above") {eliminationScore++}
 
-    eliminationScore = new eliminationScore++;
+    document.write("Your score is: " + eliminationScore);
 }
 
 function allScore() {
