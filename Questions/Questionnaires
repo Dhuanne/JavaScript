@@ -1,24 +1,24 @@
 SOFTWARE ENGINEERING
 IDENTIFICATION 10pts.
-It is a concrete model of how a system will appear or behave, and usually depict the user interface.
+It is a concrete model of how a system will appear or behave, and usually depict the user interface?
 Prototype
-It is a non-functional user interface layout that uses actual GUI components and validates UI design.
+It is a non-functional user interface layout that uses actual GUI components and validates UI design?
 Mockup
-Its main goal is to build a very robust prototype in a structured manner and constantly refine it
+It iss main goal is to build a very robust prototype in a structured manner and constantly refine it?
 Evolutionary prototyping
-It is the process of applying various techniques and principles for the purpose of defining a device, process or system in sufficient detail to permit its physical realization.
+It is the process of applying various techniques and principles for the purpose of defining a device, process or system in sufficient detail to permit its physical realization?
 Design
-It refers to the iterative process through which requirements are translated into a “blueprint” for building software.
+It refers to the iterative process through which requirements are translated into a “blueprint” for building software?
 Software Design
-It establishes a basic structural framework that identifies the major components of a system and the communication among these components.
+It establishes a basic structural framework that identifies the major components of a system and the communication among these components?
 Architectural Design
-It leads to the accurate specification of requirements, and the construction of a valid and useable system from the users’ perspective via conventional software development models
+It leads to the accurate specification of requirements, and the construction of a valid and useable system from the users’ perspective via conventional software development models?
 Throwaway prototyping
-It consists of a central data store and a set of independent components that access the data store.
+It consists of a central data store and a set of independent components that access the data store?
 Repository
-This Architectural Style’s system is organized as a set of services and associated servers and clients that access and use these services.
+This Architectural Style’s system is organized as a set of services and associated servers and clients that access and use these services?
 Client-server
-It exploits diverse connectivity between participants in a network and the cumulative bandwidth of the network participants.
+It exploits diverse connectivity between participants in a network and the cumulative bandwidth of the network participants?
 Peer-to-peer
 
 MULTIPLE CHOICE 10pts.

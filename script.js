@@ -1,9 +1,51 @@
+// Variables
+// var eliminationScore = 0;
+// var allScore = identificationScore + eliminationScore;
+
 // To get score
-function check() {
-    var score = 0;
+function checkIdentification(identificationScore) {
+    // Variable
+    var identificationScore = 0;
 
     // Identification
+    var q1Identification = document.getElementById("q1").value;
+    var q2Identification = document.getElementById("q2").value;
+    var q3Identification = document.getElementById("q3").value;
+    var q4Identification = document.getElementById("q4").value;
+    var q5Identification = document.getElementById("q5").value;
+    var q6Identification = document.getElementById("q6").value;
+    var q7Identification = document.getElementById("q7").value;
+    var q8Identification = document.getElementById("q8").value;
+    var q9Identification = document.getElementById("q9").value;
+    var q10Identification = document.getElementById("q10").value;
 
+    // Checking Identification
+    if (q1Identification == "Prototype") {identificationScore++}
+    if (q2Identification == "Mockup") {identificationScore++}
+    if (q3Identification == "Evolutionary prototyping") {identificationScore++}
+    if (q4Identification == "Design") {identificationScore++}
+    if (q5Identification == "Software Design") {identificationScore++}
+    if (q6Identification == "Architectural Design") {identificationScore++}
+    if (q7Identification == "Throwaway prototyping") {identificationScore++}
+    if (q8Identification == "Repository") {identificationScore++}
+    if (q9Identification == "Client-server") {identificationScore++}
+    if (q10Identification == "Peer-to-peer") {identificationScore++}
+
+    document.write("Your score is: " + identificationScore);
+
+    location.href = "softwareEngingeeringElimination.html";
+    return identificationScore;
+}
+
+// function print() {
+//     document.write(identificationScore=checkIdentification());
+// }
+
+function check() {
+    
+
+    // Identification
+    // var q1Identification = document.getElementById("myInput").value;
 
 
 
@@ -22,20 +64,26 @@ function check() {
     // If true add score
 
     // Identification
+    // if (q1Identification == 2) {score++}
 
 
     // Elimination
-    if (q1 == "Use-based development") {score++}
-    if (q2 == "Object-Based Development Model") {score++}
-    if (q3 == "Software does “wear out”") {score++}
-    if (q4 == "None of the above") {score++}
-    if (q5 == "Last explicit process model") {score++}
-    if (q6 == "None of the above") {score++}
-    if (q7 == "Less effective than waterfall model") {score++}
-    if (q8 == "Increase rework in the development process") {score++}
-    if (q9 == "Delayed error elimination") {score++}
-    if (q10 == "None of the above") {score++}
+    if (q1 == "Use-based development") {eliminationScore++}
+    if (q2 == "Object-Based Development Model") {eliminationScore++}
+    if (q3 == "Software does “wear out”") {eliminationScore++}
+    if (q4 == "None of the above") {eliminationScore++}
+    if (q5 == "Last explicit process model") {eliminationScore++}
+    if (q6 == "None of the above") {eliminationScore++}
+    if (q7 == "Less effective than waterfall model") {eliminationScore++}
+    if (q8 == "Increase rework in the development process") {eliminationScore++}
+    if (q9 == "Delayed error elimination") {eliminationScore++}
+    if (q10 == "None of the above") {eliminationScore++}
 
     // Score
-    document.write("Your score is: " + score);
+    var eliminationScore = 0;
+    var identificationScore = checkIdentification();
+    var allScore = identificationScore + eliminationScore;
+
+    // All score
+    document.write("Your score is: " + allScore);
 }
