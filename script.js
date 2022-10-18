@@ -27,5 +27,5 @@ function check() {
     if (q10 == "None of the above") {score++}
 
     // Score
-    document.write(score);
+    document.write("Your score is: " + score);
 }
