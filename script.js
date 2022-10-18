@@ -3,16 +3,16 @@ function check() {
     var score = 0;
 
     // Elimination
-    var q1=document.softEngMultipleChoice.question1.value;
-    var q2=document.softEngMultipleChoice.question2.value;
-    var q3=document.softEngMultipleChoice.question3.value;
-    var q4=document.softEngMultipleChoice.question4.value;
-    var q5=document.softEngMultipleChoice.question5.value;
-    var q6=document.softEngMultipleChoice.question6.value;
-    var q7=document.softEngMultipleChoice.question7.value;
-    var q8=document.softEngMultipleChoice.question8.value;
-    var q9=document.softEngMultipleChoice.question9.value;
-    var q10=document.softEngMultipleChoice.question10.value;
+    var q1=document.softEngElimination.question1.value;
+    var q2=document.softEngElimination.question2.value;
+    var q3=document.softEngElimination.question3.value;
+    var q4=document.softEngElimination.question4.value;
+    var q5=document.softEngElimination.question5.value;
+    var q6=document.softEngElimination.question6.value;
+    var q7=document.softEngElimination.question7.value;
+    var q8=document.softEngElimination.question8.value;
+    var q9=document.softEngElimination.question9.value;
+    var q10=document.softEngElimination.question10.value;
 
     // If true add score
     if (q1 == "Use-based development") {score++}
