@@ -2,7 +2,7 @@
 function check() {
     var score = 0;
 
-    // Multiple Choice
+    // Elimination
     var q1=document.softEngMultipleChoice.question1.value;
     var q2=document.softEngMultipleChoice.question2.value;
     var q3=document.softEngMultipleChoice.question3.value;
