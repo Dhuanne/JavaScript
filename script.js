@@ -69,11 +69,12 @@ function check() {
     if (q9 == "Delayed error elimination") {eliminationScore++}
     if (q10 == "None of the above") {eliminationScore++}
 
+    eliminationScore = new eliminationScore++;
+}
 
-    function allScore() {
-        var identificationScore = checkIdentification();
-        var allScore = identificationScore + eliminationScore;
-        // All score
-        document.write("Your score is: " + allScore);
-    }
+function allScore() {
+    var identificationScore = checkIdentification();
+    var allScore = identificationScore + eliminationScore;
+    // All score
+    document.write("Your score is: " + allScore);
 }
