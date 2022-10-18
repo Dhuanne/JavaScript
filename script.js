@@ -2,6 +2,11 @@
 function check() {
     var score = 0;
 
+    // Identification
+
+
+
+
     // Elimination
     var q1=document.softEngElimination.question1.value;
     var q2=document.softEngElimination.question2.value;
@@ -15,6 +20,11 @@ function check() {
     var q10=document.softEngElimination.question10.value;
 
     // If true add score
+
+    // Identification
+
+
+    // Elimination
     if (q1 == "Use-based development") {score++}
     if (q2 == "Object-Based Development Model") {score++}
     if (q3 == "Software does “wear out”") {score++}

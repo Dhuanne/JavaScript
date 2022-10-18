@@ -15,10 +15,26 @@
         <h1 class="headerIdentification">Identification</h1>
         <div class="Identification-container">
             <!-- 1st Question -->
+            <form name="softEngIdentification" id="softEngIdentification"></form>
             <div>
                 <p>What is 1+1?</p>
-
+                <input id = ""></input>
             </div>
+            <!-- 2nd Question -->
+            </form>
+
+
+            <!-- <input type="button" name="" value="Next" onclick="check()"> -->
+
+            <input type="button" name="" value="Submit" onclick="check()">
+
+            <button id="identificationNext" class="identificationNext" >Next</button>
+
+            <script type="text/javascript">
+                document.getElementById("identificationNext").onclick = function () {
+                    location.href = "softwareEngingeeringElimination.html";
+                };
+            </script>
 
 
         </div>
