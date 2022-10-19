@@ -3,6 +3,7 @@
 // var allScore = identificationScore + eliminationScore;
 
 // To get score
+
 function checkIdentification(identificationScore) {
     // Score Variable
     var identificationScore = 0;
@@ -71,10 +72,10 @@ function check() {
 
     document.write("Your score is: " + eliminationScore);
 }
-
 function allScore() {
     var identificationScore = checkIdentification();
     var allScore = identificationScore + eliminationScore;
     // All score
     document.write("Your score is: " + allScore);
 }
+document.addEventListener('contextmenu', event => event.preventDefault());

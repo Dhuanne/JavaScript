@@ -1,4 +1,14 @@
 /* Software Engineering Identification*/
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
 .softEngIdentification-section{
   background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url(Images/HomepageBackground.jpg);
   background-position: center;
@@ -9,7 +19,29 @@
   overflow: hidden;
   margin: 0;
 }
-
+.index_header{
+  background-image: url(Images/bg.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  background-attachment: fixed;
+}
+.interface{
+  background: rgba(255,255,255,0.1);
+  position: absolute;
+  height: 400px;
+  width: 400px;
+  border: white;
+  border-style: solid;
+  border-radius: 25px;
+  transform: translate(125%,30%);
+}
+.interface h1{
+  color: white;
+  margin-left: 15px;
+  margin-top: 15px;
+}
 .identification-container{
   background-color: beige;
   border-radius: 10px;
