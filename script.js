@@ -5,6 +5,15 @@
 // To get score
 
 function checkIdentification(identificationScore) {
+
+    //parsing json to an aobject
+    /*var jsonidentification = JSON.parse(ientification);
+    for(var i = 0; i<jsonidentification.identification.length; i++){
+        var identification = jsonidentification.identification[i];
+        console.log(identification.qustions);
+        console.log(identification.answers);
+    }*/
+
     // Score Variable
     var identificationScore = 0;
 
