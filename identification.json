@@ -31,7 +31,7 @@
         },
 
         {
-            "question":"It leads to the accurate specification of requirements, and the construction of a valid and useable system from the users’ perspective via conventional software development models",
+            "question":"It leads to the accurate specification of requirements, and the construction of a valid and useable system from the users' perspective via conventional software development models",
             "answer":"Throwaway prototyping"
         },
 
@@ -41,7 +41,7 @@
         },
 
         {
-            "question":"This Architectural Style’s system is organized as a set of services and associated servers and clients that access and use these services.",
+            "question":"This Architectural Style's system is organized as a set of services and associated servers and clients that access and use these services.",
             "answer":"Client-server"
         },
 
@@ -64,7 +64,7 @@
 
         {
             "question":"It is a type of incremental search method in which the interval is always divided in half.",
-            "answer":"Bolzano’s method"
+            "answer":"Bolzano's method"
         
         },
 
