@@ -1,0 +1,64 @@
+{
+  "mathIdentification": [
+
+    {
+      "question":"These are techniques by which mathematical problems are formulated so that they can be solved with arithmetic operations.",
+      "answer":"Numerical methods"
+
+    },
+
+    {
+      "question":"It refers to how closely a computed or measured value agrees with the true value.",
+      "answer":"Accuracy"
+
+    },
+
+    {
+      "question":"It is a type of incremental search method in which the interval is always divided in half.",
+      "answer":"Bolzano's method"
+
+    },
+
+    {
+      "question":"This is the discrepancy introduced by the fact that numerical methods may employ approximations to represent exact mathematical operations and quantities.",
+      "answer":"Transaction error"
+
+    },
+
+    {
+      "question":"A kind of error that is not directly connected with numerical methods.",
+      "answer":"Formulation error"
+
+    },
+
+    {
+      "question":"When computer programs are divided into small subprograms which can be developed and tested separately then we are doing an approach called.",
+      "answer":"Modular programming"
+
+    },
+
+    {
+      "question":"This software is produced by Microsoft, Inc. that allows the user to enter and perform calculations on rows and columns of data",
+      "answer":"Excel"
+
+    },
+
+    {
+      "question":"It refers to how closely individuals computed or measured agree with each other.",
+      "answer":"Precision"
+
+    },
+
+    {
+      "question":"It refers to the systematic deviation from the truth.",
+      "answer":"Inaccuracy"
+
+    },
+
+    {
+      "question":"It refers to the magnitude of the scatter of the approximate values",
+      "answer":"Imprecision"
+
+    }
+  ]
+}

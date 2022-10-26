@@ -6,7 +6,7 @@
         "c" : "Formal systems development",
         "d" : "Use-based development",
         "e" : "None of the above",
-        "answer" : 3
+        "answer" : 4
     },
 
     {
@@ -50,7 +50,7 @@
     },
 
     {
-        "question" : "Which of the following is NOT a description of Waterfall model?",
+        "question" : "Which of the following is NOT an description of Waterfall model?",
         "a" : "Linear sequential model",
         "b" : "Describe a set of clear stages in the development process",
         "c" : "Based on engineering practice",

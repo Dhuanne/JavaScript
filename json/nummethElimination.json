@@ -1,0 +1,42 @@
+[
+  {
+    "question" : "This is the discrepancy between an exact value and some approximation to it.",
+    "a" : "Round-off errors",
+    "b" : "Total numerical error",
+    "c" : "Truncation error",
+    "d" : "Approximation error",
+    "e" : "None of the above",
+    "answer" : 4
+  },
+
+  {
+    "question" : "This is the summation of the truncation and round-off errors.",
+    "a" : "Round-off errors",
+    "b" : "Total numerical error",
+    "c" : "Truncation error",
+    "d" : "Approximation error",
+    "e" : "None of the above",
+    "answer" : 2
+  },
+
+  {
+    "question" : "_________ refers to how closely a computed or measured value agrees with the true value.",
+    "a" : "Precision",
+    "b" : "True value",
+    "c" : "Accuracy",
+    "d" : "Round-off errors",
+    "e" : "None of the above",
+    "answer" : 3
+  },
+
+  {
+    "question" : "It is a special type of software that allows the user to enter and perform calculations on rows and columns of data.",
+    "a" : "Excel",
+    "b" : "Matlab",
+    "c" : "Mathcad",
+    "d" : "Gitlab",
+    "e" : "None of the above",
+    "answer" : 1
+  }
+
+]
