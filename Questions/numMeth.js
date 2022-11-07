@@ -3,6 +3,22 @@ var quiz = {
     "JS": [
         {
             "id": 1,
+            "question": "It is often a straightforward proposition to determine the performance of a system as a function of its parameters.",
+            "options": [
+                {
+                    "a" : "Large versus systems",
+                    "b" : "Nonlinear versus linear",
+                    "c" : "Design",
+                    "d" : "Sensitivity analysis",
+                    "e" : "None of the above",
+                }
+            ],
+            "answer": "Design",
+            "score": 0,
+            "status": ""
+        },
+        {
+            "id": 2,
             "question": "This is the discrepancy between an exact value and some approximation to it.",
             "options": [
                 {
@@ -13,151 +29,135 @@ var quiz = {
                     "e" : "None of the above",
                 }
             ],
-            "answer": "Use-based development",
-            "score": 0,
-            "status": ""
-        },
-        {
-            "id": 2,
-            "question": "Which of the following is NOT included in Specific Process Models?",
-            "options": [
-                {
-                    "a" : "Incremental model",
-                    "b" : "Object-Based Development Model",
-                    "c" : "Spiral Development Model",
-                    "d" : "Package-Based Development Model",
-                    "e" : "None of the above",
-                }
-            ],
-            "answer": "Object-Based Development Model",
+            "answer": "Approximation error",
             "score": 0,
             "status": ""
         },
         {
             "id": 3,
-            "question": "Which of the following is NOT included in Characteristics of Software?",
+            "question": "This is the summation of the truncation and round-off errors.",
             "options": [
                 {
-                    "a" : "Software does “wear out”",
-                    "b" : "Software is abstract and intangible",
-                    "c" : "Software is developed or engineered; it is not manufactured in the classical sense",
-                    "d" : "Most software is custom-built, rather than being assembled from existing components",
+                    "a" : "Round-off errors",
+                    "b" : "Total numerical error",
+                    "c" : "Truncation error",
+                    "d" : "Approximation error",
                     "e" : "None of the above",
                 }
             ],
-            "answer": "Software does “wear out”",
+            "answer": "Total numerical error”",
             "score": 0,
             "status": ""
         },
         {
             "id": 4,
-            "question": "Which of the following is NOT included in Fundamental Process Activities of Software Process?",
+            "question": "_________ refers to how closely a computed or measured value agrees with the true value.",
             "options": [
                 {
-                    "a" : "Specification",
-                    "b" : "Development",
-                    "c" : "Validation",
-                    "d" : "Evolution",
+                    "a" : "Precision",
+                    "b" : "True value",
+                    "c" : "Accuracy",
+                    "d" : "Round-off errors",
                     "e" : "None of the above",
                 }
             ],
-            "answer": "None of the above",
+            "answer": "Accuracy",
             "score": 0,
             "status": ""
         },
         {
             "id": 5,
-            "question": "Which of the following is NOT an advantage of the Waterfall Model?",
+            "question": "It is a special type of software that allows the user to enter and perform calculations on rows and columns of data.",
             "options": [
                 {
-                    "a" : "Very clear from a managerial viewpoint - easy to model, plan, monitor, and understand",
-                    "b" : "Many existing tools support this model",
-                    "c" : "Development is relatively slow and deliberate and thus, results in solid, well-constructed systems",
-                    "d" : "Last explicit process model",
+                    "a" : "Excel",
+                    "b" : "Matlab",
+                    "c" : "Mathcad",
+                    "d" : "Gitlab",
                     "e" : "None of the above",
                 }
             ],
-            "answer": "Last explicit process model",
+            "answer": "Excel",
             "score": 0,
             "status": ""
         },
         {
             "id": 6,
-            "question": "Which of the following is NOT an description of Waterfall model?",
+            "question": "If the true value of a measurement is 10.9 cm and the approximate value is 10.7 cm, what is the true error?",
             "options": [
                 {
-                    "a" : "Linear sequential model",
-                    "b" : "Describe a set of clear stages in the development process",
-                    "c" : "Based on engineering practice",
-                    "d" : "Still used for large systems engineering projects",
+                    "a" : "0.2 cm",
+                    "b" : "1.8 cm",
+                    "c" : "0.2 %",
+                    "d" : "1.8 %",
                     "e" : "None of the above",
                 }
             ],
-            "answer": "None of the above",
+            "answer": "0.2 cm",
             "score": 0,
             "status": ""
         },
         {
             "id": 7,
-            "question":  "Which of the following is NOT a disadvantage of Evolutionary Development?",
+            "question":  "If the true value of a measurement is 10.9 cm and the approximate value is 10.7 cm, what is the true relative error?",
             "options": [
                 {
-                    "a" : "Cost, time, and resource estimation is difficult",
-                    "b" : "Process is not visible",
-                    "c" : "Progress is difficult to measure",
-                    "d" : "Less effective than waterfall model",
+                    "a" : "0.2 cm",
+                    "b" : "1.8 cm",
+                    "c" : "0.2 %",
+                    "d" : "1.8 %",
                     "e" : "None of the above",
                 }
             ],
-            "answer": "Less effective than waterfall model",
+            "answer": "1.8 %",
             "score": 0,
             "status": ""
         },
         {
             "id": 8,
-            "question": "Which of the following is NOT a description of Incremental model?",
+            "question": "Solving the function f(x)=4x3-15x2+17x+6 using the Newton-Raphson method with a starting value of x = 0, the first iteration yields a value of x equal to:",
             "options": [
                 {
-                    "a" : "Suggested by Mills 1980",
-                    "b" : "In between waterfall and evolutionary",
-                    "c" : "Increase rework in the development process",
-                    "d" : "Give customers opportunity to delay decisions",
+                    "a" : "0.3529",
+                    "b" : "- 0.3529",
+                    "c" : "6",
+                    "d" : "17",
                     "e" : "None of the above",
                 }
             ],
-            "answer": "Increase rework in the development process",
+            "answer": "6",
             "score": 0,
             "status": ""
         },
         {
             "id": 9,
-            "question": "Which of the following is NOT an advantage of Spiral Development Model?",
+            "question": "Using Bairstow’s method to solve the roots of the equation f(x) = x^4 - x - 10 with starting values r = 0.1 and s = 0.1, the first iteration yields:",
             "options": [
                 {
-                    "a" : "Delayed error elimination",
-                    "b" : "Puts quality objectives up front",
-                    "c" : "Integrates development and maintenance",
-                    "d" : "Provides a framework for simultaneous hardware/software development",
+                    "a" : "r = 1.251, s = 0.113",
+                    "b" : "r = - 3.145, s = 4.678",
+                    "c" : "r = 1.315, s = 5.278",
+                    "d" : "r = - 7.364, s = 13.579",
                     "e" : "None of the above",
                 }
             ],
-            "answer": "Delayed error elimination",
+            "answer": "r = - 7.364, s = 13.579",
             "score": 0,
             "status": ""
         },
         {
             "id": 10,
-            "question": "Which of the following is NOT included in best practices for Rational Unified Process?",
+            "question": "To solve the roots of the equation f(x)=4x^5-7x^2+8x-2 using simple fixed point iteration and initial value of x = 0.5 , which of the following formulations is converging?",
             "options": [
                 {
-                    "a" : "Develop software iteratively",
-                    "b" : "Manage requirements",
-                    "c" : "Component based architecture",
-                    "d" : "Visually model software",
+                    "a" : "x=4x^5-7x^2+9x-2",
+                    "b" : "x=((7x^2-8x+2)/4)^(1/5)",
+                    "c" : "x=(7x^2-8x+2)/x^4",
+                    "d" : "x=((4x^5-7x^2-2)/(-8)",
                     "e" : "None of the above",
                 }
             ],
-            "answer": "None of the above",
+            "answer": "x=(7x^2-8x+2)/x^4",
             "score": 0,
             "status": ""
         },
