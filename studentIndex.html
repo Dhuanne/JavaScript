@@ -13,13 +13,17 @@
         <div class = "form">
             <h2>Student Login</h2>
             <div class = "form-element">
-                <label for = "username">Full Name</label>
-                <input type = "text" id = "username" placeholder = "Enter Full Name">
+                <label for = "username">Username</label>
+                <input type = "text" id = "username" placeholder = "Enter Username">
             </div>
             <div class = "form-element">
-                <label for = "password">ID Number</label>
-                <input type = "text" id = "password" placeholder = "Enter ID Number">
+                <label for = "password">Password</label>
+                <input type = "password" id = "password" placeholder = "Enter Password">
                 </div>
+            <div class = "form-element">
+                <input type = "checkbox" id = "remember-me">
+                <label for = "remember-me">Remember Me</label>
+            </div>
             <div class = "form-element">
                 <button onclick=studentValidate()>Sign in</button>
             </div>
@@ -27,7 +31,9 @@
                 <button> <a href="teacherIndex.html">Switch User</a></button>
             </div>
         </div>
-        </div>
+    </div>
+
+    <script src = "categories.js"></script>
 
 </body>
 </html>
