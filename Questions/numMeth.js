@@ -1,16 +1,15 @@
-/* Created and coded by Abhilash Narayan */
-/* Quiz source: w3schools.com */
+
 var quiz = {
     "JS": [
         {
             "id": 1,
-            "question": "Which of the following is NOT included in Generic Process Models?",
+            "question": "This is the discrepancy between an exact value and some approximation to it.",
             "options": [
                 {
-                    "a" : "Waterfall model",
-                    "b" : "Evolutionary development",
-                    "c" : "Formal systems development",
-                    "d" : "Use-based development",
+                    "a" : "Round-off errors",
+                    "b" : "Total numerical error",
+                    "c" : "Truncation error",
+                    "d" : "Approximation error",
                     "e" : "None of the above",
                 }
             ],
@@ -159,6 +158,136 @@ var quiz = {
                 }
             ],
             "answer": "None of the above",
+            "score": 0,
+            "status": ""
+        },
+        {
+            "id": 11,
+            "question": "User requirements are typically stated in natural language",
+            "options": [
+                {
+                    "a" : "True",
+                    "b" : "False",
+                }
+            ],
+            "answer": "True",
+            "score": 0,
+            "status": ""
+        },
+        {
+            "id": 12,
+            "question": "A Software software is not physical or tangible in the traditional sense",
+            "options": [
+                {
+                    "a" : "True",
+                    "b" : "False",
+                }
+            ],
+            "answer": "True",
+            "score": 0,
+            "status": ""
+        },
+        {
+            "id": 13,
+            "question": "Based on the transformation of a mathematical specification through different representations to an executable program.",
+            "options": [
+                {
+                    "a" : "True",
+                    "b" : "False",
+                }
+            ],
+            "answer": "True",
+            "score": 0,
+            "status": ""
+        },
+        {
+            "id": 14,
+            "question": "Transformations are ‘Cleanroom’ so it is straightforward to show that the program conforms to its specification.",
+            "options": [
+                {
+                    "a" : "True",
+                    "b" : "False",
+                }
+            ],
+            "answer": "False",
+            "score": 0,
+            "status": ""
+        },
+        {
+            "id": 15,
+            "question": "Based on the idea of manufacturing semiconductors in a “cleanroom environment”.",
+            "options": [
+                {
+                    "a" : "True",
+                    "b" : "False",
+                }
+            ],
+            "answer": "True",
+            "score": 0,
+            "status": ""
+        },
+        {
+            "id": 16,
+            "question": "Communication focuses on unit tests (written before the code is made) and running periodic integration tests; functional tests are conducted based on the “user stories”; programmers and customers get concrete feedback.",
+            "options": [
+                {
+                    "a" : "True",
+                    "b" : "False",
+                }
+            ],
+            "answer": "False",
+            "score": 0,
+            "status": ""
+        },
+        {
+            "id": 17,
+            "question": "Feedback favors simple designs, common metaphors, collaboration of users and programmers, frequent verbal communication, and feedback.",
+            "options": [
+                {
+                    "a" : "True",
+                    "b" : "False",
+                }
+            ],
+            "answer": "False",
+            "score": 0,
+            "status": ""
+        },
+        {
+            "id": 18,
+            "question": "Courage code for today and not tomorrow; refactoring; persistence; knowing when to throw code away.",
+            "options": [
+                {
+                    "a" : "True",
+                    "b" : "False",
+                }
+            ],
+            "answer": "True",
+            "score": 0,
+            "status": ""
+        },
+        {
+            "id": 19,
+            "question": "Black Box shows data implementation but hides process implementation; describes how \"state\" information is transformed.",
+            "options": [
+                {
+                    "a" : "True",
+                    "b" : "False",
+                }
+            ],
+            "answer": "False",
+            "score": 0,
+            "status": ""
+        },
+        {
+            "id": 20,
+            "question": "Clear Box hides data implementation and process implementation. It describes how a system responds to stimuli, usually in a formal specification language.",
+            "options": [
+                {
+                    "a" : "True",
+                    "b" : "False",
+                }
+            ],
+            "answer": "False",
             "score": 0,
             "status": ""
         },

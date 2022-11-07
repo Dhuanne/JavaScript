@@ -3,9 +3,8 @@
     display: flex;
     max-width: 50%;
     position: absolute;
-    transform: translate(50%, 5%);
+    transform: translate(52%, 5%);
 }
-
 .header {
     padding: 15px;
     position: fixed;
@@ -26,13 +25,12 @@
     color: #fff;
 }
 .quiz-body {
-    margin-top: 15px;
+    margin-top: 70px;
     padding-bottom: 50px;
 }
 .option-block-container {
     margin-top: 20px;
     max-width: 100%;
-
 }
 .option-block {
     padding: 10px;
@@ -43,6 +41,7 @@
 }
 .result-question {
     font-weight: bold;
+
 }
 .c-wrong {
     margin-left: 20px;
@@ -61,4 +60,5 @@
     border-bottom: 1px solid #ccc;
     margin-bottom: 15px;
     padding-bottom: 15px;
+    margin-top: -125px
 }
