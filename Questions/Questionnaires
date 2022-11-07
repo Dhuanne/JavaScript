@@ -106,6 +106,67 @@ Clear Box hides data implementation and process implementation. It describes how
 FALSE
 
 NUMERICAL METHODS
+MULTIPLE CHOICE 10pts.
+It is often a straightforward proposition to determine the performance of a system as a function of its parameters.
+Large versus systems
+Nonlinear versus linear
+Design
+Sensitivity analysis
+None of the above
+This is the discrepancy between an exact value and some approximation to it.
+Round-off errors
+Total numerical error
+Truncation error
+Approximation error
+None of the above
+This is the summation of the truncation and round-off errors
+Round-off errors
+Total numerical error
+Truncation error
+Approximation error
+None of the above
+_________ refers to how closely a computed or measured value agrees with the true value.
+Precision
+True value
+Accuracy
+Round-off errors
+None of the above
+It is a special type of software that allows the user to enter and perform calculations on rows and columns of data.
+Excel
+Matlab
+Mathcad
+Gitlab
+None of the above
+If the true value of a measurement is 10.9 cm and the approximate value is 10.7 cm, what is the true error?
+0.2 cm
+1.8 cm
+0.2 %
+1.8 %
+None of the above
+If the true value of a measurement is 10.9 cm and the approximate value is 10.7 cm, what is the true relative error:
+0.2 cm
+1.8 cm
+0.2 %
+1.8 %
+None of the above
+Solving the function f(x)=4x3-15x2+17x+6 using the Newton-Raphson method with a starting value of x = 0, the first iteration yields a value of x equal to:
+0.3529
+- 0.3529
+6
+17
+None of the above
+Using Bairstow’s method to solve the roots of the equation f(x) = x^4 - x - 10 with starting values r = 0.1 and s = 0.1, the first iteration yields:
+r = 1.251, s = 0.113
+r = - 3.145, s = 4.678
+r = 1.315, s = 5.278
+r = - 7.364, s = 13.579
+None of the above
+To solve the roots of the equation f(x)=4x^5-7x^2+8x-2 using simple fixed point iteration and initial value of x = 0.5 , which of the following formulations is converging?
+x=4x^5-7x^2+9x-2
+x=((7x^2-8x+2)/4)^(1/5)
+x=(7x^2-8x+2)/x^4
+x=((4x^5-7x^2-2)/(-8)
+None of the above
 
 IDENTIFICATION 10pts.
 These are techniques by which mathematical problems are formulated so that they can be solved with arithmetic operations.
