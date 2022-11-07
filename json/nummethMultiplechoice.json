@@ -57,7 +57,7 @@
     "answer" : 1
   },
   {
-    "question" : "If the true value of a measurement is 10.9 cm and the approximate value is 10.7 cm, what is the true relative error:",
+    "question" : "If the true value of a measurement is 10.9 cm and the approximate value is 10.7 cm, what is the true relative error?",
     "a" : "0.2 cm",
     "b" : "1.8 cm",
     "c" : "0.2 %",
