@@ -3,13 +3,18 @@ function teacherValidate() {
     var username = document.getElementById("username").value;
     var password = document.getElementById("password").value;
     if (username == "admin" && password == "admin") {
-        alert("login succesfully");
-        return false;
+        window.location.href = "studentIndex.html"
     } else {
         alert("login failed");
     }
 }
+
+username.addEventListener('textInput', username_Verify);
+password.addEventListener('textInput', pass_Verify);
+
 function studentValidate() {
     var username = document.getElementById("username").value;
     var password = document.getElementById("password").value;
+        window.location.href = "subject.html"
 }
+
