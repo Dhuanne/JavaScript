@@ -1,0 +1,236 @@
+[
+    {
+        "question" : "Which of the following is NOT included in Generic Process Models?",
+        "choice1" : "Waterfall model",
+        "choice2" : "Evolutionary development",
+        "choice3" : "Formal systems development",
+        "choice4" : "Use-based development",
+        "choice5" : "None of the above",
+        "answer" : 3
+    },
+  
+    {
+        "question" : "Which of the following is NOT included in Specific Process Models?",
+        "choice1" : "Incremental model",
+        "choice2" : "Object-Based Development Model",
+        "choice3" : "Spiral Development Model",
+        "choice4" : "Package-Based Development Model",
+        "choice5" : "None of the above",
+        "answer" : 2
+    },
+  
+    {
+        "question" : "Which of the following is NOT included in Characteristics of Software?",
+        "choice1" : "Software does “wear out”",
+        "choice2" : "Software is abstract and intangible",
+        "choice3" : "Software is developed or engineered; it is not manufactured in the classical sense",
+        "choice4" : "Most software is custom-built, rather than being assembled from existing components",
+        "choice5" : "None of the above",
+        "answer" : 1
+    },
+  
+    {
+        "question" : "Which of the following is NOT included in Fundamental Process Activities of Software Process?",
+        "choice1" : "Specification",
+        "choice2" : "Development",
+        "choice3" : "Validation",
+        "choice4" : "Evolution",
+        "choice5" : "None of the above",
+        "answer" : 5
+    },
+  
+    {
+        "question" : "Which of the following is NOT an advantage of the Waterfall Model?",
+        "choice1" : "Very clear from a managerial viewpoint - easy to model, plan, monitor, and understand",
+        "choice2" : "Many existing tools support this model",
+        "choice3" : "Development is relatively slow and deliberate and thus, results in solid, well-constructed systems",
+        "choice4" : "Last explicit process model",
+        "choice5" : "None of the above",
+        "answer" : 4
+    },
+  
+    {
+        "question" : "Which of the following is NOT a description of Waterfall model?",
+        "choice1" : "Linear sequential model",
+        "choice2" : "Describe a set of clear stages in the development process",
+        "choice3" : "Based on engineering practice",
+        "choice4" : "Still used for large systems engineering projects",
+        "choice5" : "None of the above",
+        "answer" : 5
+    },
+  
+    {
+        "question" : "Which of the following is NOT a disadvantage of Evolutionary Development?",
+        "choice1" : "Cost, time, and resource estimation is difficult",
+        "choice2" : "Process is not visible",
+        "choice3" : "Progress is difficult to measure",
+        "choice4" : "Less effective than waterfall model",
+        "choice5" : "None of the above",
+        "answer" : 4
+    },
+  
+    {
+        "question" : "Which of the following is NOT a description of Incremental model?",
+        "choice1" : "Suggested by Mills 1980",
+        "choice2" : "In between waterfall and evolutionary",
+        "choice3" : "Increase rework in the development process",
+        "choice4" : "Give customers opportunity to delay decisions",
+        "choice5" : "None of the above",
+        "answer" : 3
+    },
+  
+    {
+        "question" : "Which of the following is NOT an advantage of Spiral Development Model?",
+        "choice1" : "Delayed error elimination",
+        "choice2" : "Puts quality objectives up front",
+        "choice3" : "Integrates development and maintenance",
+        "choice4" : "Provides a framework for simultaneous hardware/software development",
+        "choice5" : "None of the above",
+        "answer" : 1
+    },
+  
+    {
+        "question" : "Which of the following is NOT included in best practices for Rational Unified Process?",
+        "choice1" : "Develop software iteratively",
+        "choice2" : "Manage requirements",
+        "choice3" : "Component based architecture",
+        "choice4" : "Visually model software",
+        "choice5" : "None of the above",
+        "answer" : 5
+    },
+    {
+      "question" : "Software is defined as?",
+      "choice1" : "Set of programs, documentation & configuration of data",
+      "choice2" : "Set of programs",
+      "choice3" : "Set of hardwares",
+      "choice4" : "documentation and configuration of data",
+      "choice5" : "None of the above",
+      "answer" : 1
+    },
+    {
+      "question" : "What is Software Engineering?",
+      "choice1" : "Designing a software",
+      "choice2" : "Testing a software",
+      "choice3" : "Set of hardwares",
+      "choice4" : "Application of engineering principles to the design a software",
+      "choice5" : "None of the above",
+      "answer" : 4
+    },
+    {
+      "question" : "Who is the father of Software Engineering?",
+      "choice1" : "Margaret Hamilton",
+      "choice2" : "Watts S. Humphrey",
+      "choice3" : "Alan Turing",
+      "choice4" : "Boris Beizer",
+      "choice5" : "None of the above",
+      "answer" : 2
+    },
+    {
+      "question" : "___ is a software development activity that is not a part of software processes.",
+      "choice1" : "Validation",
+      "choice2" : "Specification",
+      "choice3" : "Development",
+      "choice4" : "Dependence",
+      "choice5" : "None of the above",
+      "answer" : 4
+    },
+    {
+      "question" : "___ is defined as the process of generating analysis and designing documents?",
+      "choice1" : "Re-engineering",
+      "choice2" : "Reverse engineering",
+      "choice3" : "Software re-engineering",
+      "choice4" : "Science and engineering",
+      "choice5" : "None of the above",
+      "answer" : 2
+    },
+    {
+      "question" : "I. User requirements are typically stated in natural language. II. A Software software is not physical or tangible in the traditional sense",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 3
+  },
+  {
+      "question" : "I. Based on the transformation of a mathematical specification through different representations to an executable program. II. Transformations are ‘Cleanroom’ so it is straightforward to show that the program conforms to its specification.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 3
+  },
+  {
+      "question" : "I. Based on the idea of manufacturing semiconductors in a “cleanroom environment”. II. Communication focuses on unit tests (written after the code is made) and running periodic integration tests; functional tests are conducted based on the “user stories”; programmers and customers get concrete feedback.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 1
+  },
+  {
+      "question" : "I. Feedback does not favors simple designs, common metaphors, collaboration of users and programmers, frequent verbal communication, and feedback. II. Courage code for today and not tomorrow; refactoring; persistence; knowing when to throw code away.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 2
+  },
+  {
+      "question" : "I. Black Box shows data implementation but hides process implementation; describes how state information is transformed. II. Clear Box hides data implementation and process implementation. It describes how a system responds to stimuli, usually in a formal specification language.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 4
+  },
+  {
+      "question" : "I. The Waterfall Model was the first Process Model to be introduced. It is also referred to as a linear-sequential life cycle model. II. The waterfall model is a classical model used in system development life cycle to remove a system with a linear and sequential approach.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 1
+  },
+  {
+      "question" : "I. Software is a set of computer programs and associated documentation and data. II. Software is a generic term used to refer to applications, scripts and programs that run on a device.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 3
+  },
+  {
+      "question" : "I. A software product is software that has been developed and maintained for the benefit of a user base and often to satisfy a need in the market. II. One example of software as a product has historically been processors.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 1
+  },
+  {
+      "question" : "I. A software disaster is a failure that occurs when the user perceives that the software has ceased to deliver the expected result with respect to the specification input values. II. Most software projects fail completely or partially because they don't meet all their requirements.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 3
+  },
+  {
+      "question" : "I. Software engineering is a detailed study of engineering to the design, development and maintenance of software. II. Software engineering is the application of principles used in the field of engineering, which usually deals with physical systems, to the design, development, testing, deployment and management of software systems.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 3
+  }
+  ]
