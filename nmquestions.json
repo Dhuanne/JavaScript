@@ -94,48 +94,93 @@
       "answer" : 3
     },
     {
-        "question" : "I. If in some instances that we will have with us the availability of an analytical solution then we will have the capability to compute the error approximately. II. A function typically changes sign in the vicinity of a root.",
-        "choice1" : "True",
-        "choice2" : "False",
-        "choice3" : "Both are True",
-        "choice4" : "Both are False",
-        "choice5" : "None of the above",
-        "answer" : 5
-      },
-      {
-        "question" : "I. An exception to the general case is that when the function is tangential to the x axis and the end points are of opposite signs, there are an even number of axis intersections for the interval. II. Graphical techniques are of limited practical value because they are not precise but they can be utilized to obtain rough estimates of roots.",
-        "choice1" : "True",
-        "choice2" : "False",
-        "choice3" : "Both are True",
-        "choice4" : "Both are False",
-        "choice5" : "None of the above",
-        "answer" : 3
-      },
-      {
-        "question" : "I. Given an upper bound and a lower bound, when a function changes sign in an interval, then there will generally be an even number of roots. II. In the bisection algorithm, to determine the subinterval in the next iteration, the following conditional statement is legitimate: If f(xuf(xr) is negative, the root lies in the lower subinterval.",
-        "choice1" : "True",
-        "choice2" : "False",
-        "choice3" : "Both are True",
-        "choice4" : "Both are False",
-        "choice5" : "None of the above",
-        "answer" : 4
-      },
-      {
-        "question" : "I. The secant method uses the derivative instead of a difference to estimate the slope. II. Muller’s method uses the idea of projecting a line through two points on the x-axis to estimate the root.",
-        "choice1" : "True",
-        "choice2" : "False",
-        "choice3" : "Both are True",
-        "choice4" : "Both are False",
-        "choice5" : "None of the above",
-        "answer" : 4
-      },
-      {
-        "question" : "I. Bairstow’s method is generally based on the mathematical process of dividing a polynomial by a quadratic factor. II. The bisection method, which is alternatively called binary chopping, interval halving, or Bolzano’s method, is one type of incremental search method in which the interval is always divided in half.",
-        "choice1" : "True",
-        "choice2" : "False",
-        "choice3" : "Both are True",
-        "choice4" : "Both are False",
-        "choice5" : "None of the above",
-        "answer" : 3
-      }
+      "question" : "I. If in some instances that we will have with us the availability of an analytical solution then we will have the capability to compute the error approximately. II. A function typically changes sign in the vicinity of a root.",
+      "choice1" : "True",
+      "choice2" : "False",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 5
+    },
+    {
+      "question" : "I. An exception to the general case is that when the function is tangential to the x axis and the end points are of opposite signs, there are an even number of axis intersections for the interval. II. Graphical techniques are of limited practical value because they are not precise but they can be utilized to obtain rough estimates of roots.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 3
+    },
+    {
+      "question" : "I. Given an upper bound and a lower bound, when a function changes sign in an interval, then there will generally be an even number of roots. II. In the bisection algorithm, to determine the subinterval in the next iteration, the following conditional statement is legitimate: If f(xuf(xr) is negative, the root lies in the lower subinterval.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 4
+    },
+    {
+      "question" : "I. The secant method uses the derivative instead of a difference to estimate the slope. II. Muller’s method uses the idea of projecting a line through two points on the x-axis to estimate the root.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 4
+    },
+    {
+      "question" : "I. Bairstow’s method is generally based on the mathematical process of dividing a polynomial by a quadratic factor. II. The bisection method, which is alternatively called binary chopping, interval halving, or Bolzano’s method, is one type of incremental search method in which the interval is always divided in half.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 3
+    },
+    {
+      "question" : "I. A function typically changes sign in the vicinity of a root. II. A function is an expression, rule, or law that defines a relationship between one variable.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 3
+    },
+    {
+      "question" : "I. Bairstow created the Bairstow's method. II. This method divides the polynomial by a quadratic function.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 3
+    },
+    {
+      "question" : "I. False position method is an algorithm for finding roots. II. The other term for False position method is regura falsi method.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 1
+    },
+    {
+      "question" : "I. Bisection method cannot not be used to find the roots of a polynomial equation. II. It unites the interval and subdivides the interval in which the root of the equation lies.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 2
+    },
+    {
+      "question" : "I. the Euler method is a first-order numerical procedure for solving ordinary differential equations with a given initial value. II. Euler's method is simple and direct.",
+      "choice1" : "Statement I is True, Statement II is False",
+      "choice2" : "Statement I is False, Statement II is True",
+      "choice3" : "Both are True",
+      "choice4" : "Both are False",
+      "choice5" : "None of the above",
+      "answer" : 3
+    }
   ]

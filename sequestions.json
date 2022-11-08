@@ -100,8 +100,8 @@
   },
   {
     "question" : "I. User requirements are typically stated in natural language. II. A Software software is not physical or tangible in the traditional sense",
-    "choice1" : "True",
-    "choice2" : "False",
+    "choice1" : "Statement I is True, Statement II is False",
+    "choice2" : "Statement I is False, Statement II is True",
     "choice3" : "Both are True",
     "choice4" : "Both are False",
     "choice5" : "None of the above",
@@ -109,38 +109,83 @@
 },
 {
     "question" : "I. Based on the transformation of a mathematical specification through different representations to an executable program. II. Transformations are ‘Cleanroom’ so it is straightforward to show that the program conforms to its specification.",
-    "choice1" : "True",
-    "choice2" : "False",
+    "choice1" : "Statement I is True, Statement II is False",
+    "choice2" : "Statement I is False, Statement II is True",
     "choice3" : "Both are True",
     "choice4" : "Both are False",
     "choice5" : "None of the above",
-    "answer" : 5
+    "answer" : 3
 },
 {
-    "question" : "I. Based on the idea of manufacturing semiconductors in a “cleanroom environment”. II. Communication focuses on unit tests (written before the code is made) and running periodic integration tests; functional tests are conducted based on the “user stories”; programmers and customers get concrete feedback.",
-    "choice1" : "True",
-    "choice2" : "False",
+    "question" : "I. Based on the idea of manufacturing semiconductors in a “cleanroom environment”. II. Communication focuses on unit tests (written after the code is made) and running periodic integration tests; functional tests are conducted based on the “user stories”; programmers and customers get concrete feedback.",
+    "choice1" : "Statement I is True, Statement II is False",
+    "choice2" : "Statement I is False, Statement II is True",
     "choice3" : "Both are True",
     "choice4" : "Both are False",
     "choice5" : "None of the above",
-    "answer" : 5
+    "answer" : 1
 },
 {
-    "question" : "I. Feedback favors simple designs, common metaphors, collaboration of users and programmers, frequent verbal communication, and feedback. II. Courage code for today and not tomorrow; refactoring; persistence; knowing when to throw code away.",
-    "choice1" : "True",
-    "choice2" : "False",
+    "question" : "I. Feedback does not favors simple designs, common metaphors, collaboration of users and programmers, frequent verbal communication, and feedback. II. Courage code for today and not tomorrow; refactoring; persistence; knowing when to throw code away.",
+    "choice1" : "Statement I is True, Statement II is False",
+    "choice2" : "Statement I is False, Statement II is True",
     "choice3" : "Both are True",
     "choice4" : "Both are False",
     "choice5" : "None of the above",
-    "answer" : 5
+    "answer" : 2
 },
 {
     "question" : "I. Black Box shows data implementation but hides process implementation; describes how state information is transformed. II. Clear Box hides data implementation and process implementation. It describes how a system responds to stimuli, usually in a formal specification language.",
-    "choice1" : "True",
-    "choice2" : "False",
+    "choice1" : "Statement I is True, Statement II is False",
+    "choice2" : "Statement I is False, Statement II is True",
     "choice3" : "Both are True",
     "choice4" : "Both are False",
     "choice5" : "None of the above",
     "answer" : 4
+},
+{
+    "question" : "I. The Waterfall Model was the first Process Model to be introduced. It is also referred to as a linear-sequential life cycle model. II. The waterfall model is a classical model used in system development life cycle to remove a system with a linear and sequential approach.",
+    "choice1" : "Statement I is True, Statement II is False",
+    "choice2" : "Statement I is False, Statement II is True",
+    "choice3" : "Both are True",
+    "choice4" : "Both are False",
+    "choice5" : "None of the above",
+    "answer" : 1
+},
+{
+    "question" : "I. Software is a set of computer programs and associated documentation and data. II. Software is a generic term used to refer to applications, scripts and programs that run on a device.",
+    "choice1" : "Statement I is True, Statement II is False",
+    "choice2" : "Statement I is False, Statement II is True",
+    "choice3" : "Both are True",
+    "choice4" : "Both are False",
+    "choice5" : "None of the above",
+    "answer" : 3
+},
+{
+    "question" : "I. A software product is software that has been developed and maintained for the benefit of a user base and often to satisfy a need in the market. II. One example of software as a product has historically been processors.",
+    "choice1" : "Statement I is True, Statement II is False",
+    "choice2" : "Statement I is False, Statement II is True",
+    "choice3" : "Both are True",
+    "choice4" : "Both are False",
+    "choice5" : "None of the above",
+    "answer" : 1
+},
+{
+    "question" : "I. A software disaster is a failure that occurs when the user perceives that the software has ceased to deliver the expected result with respect to the specification input values. II. Most software projects fail completely or partially because they don't meet all their requirements.",
+    "choice1" : "Statement I is True, Statement II is False",
+    "choice2" : "Statement I is False, Statement II is True",
+    "choice3" : "Both are True",
+    "choice4" : "Both are False",
+    "choice5" : "None of the above",
+    "answer" : 3
+},
+{
+    "question" : "I. Software engineering is a detailed study of engineering to the design, development and maintenance of software. II. Software engineering is the application of principles used in the field of engineering, which usually deals with physical systems, to the design, development, testing, deployment and management of software systems.",
+    "choice1" : "Statement I is True, Statement II is False",
+    "choice2" : "Statement I is False, Statement II is True",
+    "choice3" : "Both are True",
+    "choice4" : "Both are False",
+    "choice5" : "None of the above",
+    "answer" : 3
 }
 ]
