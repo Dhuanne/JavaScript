@@ -163,20 +163,20 @@ var quiz = {
         },
         {
             "id": 11,
-            "question": "User requirements are typically stated in natural language.",
+            "question": "If in some instances that we will have with us the availability of an analytical solution then we will have the capability to compute the error approximately.",
             "options": [
                 {
                     "a" : "True",
                     "b" : "False",
                 }
             ],
-            "answer": "True",
+            "answer": "False",
             "score": 0,
             "status": ""
         },
         {
             "id": 12,
-            "question": "Software is abstracted and intangible.",
+            "question": "A function typically changes sign in the vicinity of a root.",
             "options": [
                 {
                     "a" : "True",
@@ -189,7 +189,7 @@ var quiz = {
         },
         {
             "id": 13,
-            "question": "Based on the transformation of a mathematical specification through different representations to an executable program.",
+            "question": "An exception to the general case is that when the function is tangential to the x axis and the end points are of opposite signs, there are an even number of axis intersections for the interval.",
             "options": [
                 {
                     "a" : "True",
@@ -202,20 +202,7 @@ var quiz = {
         },
         {
             "id": 14,
-            "question": "Transformations are ‘Cleanroom’ so it is straightforward to show that the program conforms to its specification.",
-            "options": [
-                {
-                    "a" : "True",
-                    "b" : "False",
-                }
-            ],
-            "answer": "False",
-            "score": 0,
-            "status": ""
-        },
-        {
-            "id": 15,
-            "question": "Based on the idea of manufacturing semiconductors in a “cleanroom environment”.",
+            "question": "Graphical techniques are of limited practical value because they are not precise but they can be utilized to obtain rough estimates of roots.",
             "options": [
                 {
                     "a" : "True",
@@ -227,8 +214,21 @@ var quiz = {
             "status": ""
         },
         {
+            "id": 15,
+            "question": "Given an upper bound and a lower bound, when a function changes sign in an interval, then there will generally be an even number of roots.",
+            "options": [
+                {
+                    "a" : "True",
+                    "b" : "False",
+                }
+            ],
+            "answer": "False",
+            "score": 0,
+            "status": ""
+        },
+        {
             "id": 16,
-            "question": "Communication focuses on unit tests (written before the code is made) and running periodic integration tests; functional tests are conducted based on the “user stories”; programmers and customers get concrete feedback.",
+            "question": "In the bisection algorithm, to determine the subinterval in the next iteration, the following conditional statement is legitimate: If f(xuf(xr) is negative, the root lies in the lower subinterval.",
             "options": [
                 {
                     "a" : "True",
@@ -241,7 +241,7 @@ var quiz = {
         },
         {
             "id": 17,
-            "question": "Feedback favors simple designs, common metaphors, collaboration of users and programmers, frequent verbal communication, and feedback.",
+            "question": "The secant method uses the derivative instead of a difference to estimate the slope.",
             "options": [
                 {
                     "a" : "True",
@@ -254,7 +254,20 @@ var quiz = {
         },
         {
             "id": 18,
-            "question": "Courage code for today and not tomorrow; refactoring; persistence; knowing when to throw code away.",
+            "question": "Muller’s method uses the idea of projecting a line through two points on the x-axis to estimate the root.",
+            "options": [
+                {
+                    "a" : "True",
+                    "b" : "False",
+                }
+            ],
+            "answer": "False",
+            "score": 0,
+            "status": ""
+        },
+        {
+            "id": 19,
+            "question": "Bairstow’s method is generally based on the mathematical process of dividing a polynomial by a quadratic factor.",
             "options": [
                 {
                     "a" : "True",
@@ -266,28 +279,15 @@ var quiz = {
             "status": ""
         },
         {
-            "id": 19,
-            "question": "Black Box shows data implementation but hides process implementation; describes how \"state\" information is transformed.",
-            "options": [
-                {
-                    "a" : "True",
-                    "b" : "False",
-                }
-            ],
-            "answer": "False",
-            "score": 0,
-            "status": ""
-        },
-        {
             "id": 20,
-            "question": "Clear Box hides data implementation and process implementation. It describes how a system responds to stimuli, usually in a formal specification language.",
+            "question": "The bisection method, which is alternatively called binary chopping, interval halving, or Bolzano’s method, is one type of incremental search method in which the interval is always divided in half.",
             "options": [
                 {
                     "a" : "True",
                     "b" : "False",
                 }
             ],
-            "answer": "False",
+            "answer": "True",
             "score": 0,
             "status": ""
         },
