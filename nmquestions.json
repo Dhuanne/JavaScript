@@ -94,6 +94,51 @@
       "answer" : 3
     },
     {
+      "question" : "Solve the equations using Gauss Jordan method. x+y+z=9, 2x-3y+4z=13, 3x+4y+5z=40",
+      "choice1" : "x=1, y=3, z=7",
+      "choice2" : "x=1, y=3, z=2",
+      "choice3" : "x=1, y=3, z=4",
+      "choice4" : "x=1, y=3, z=5",
+      "choice5" : "None of the above",
+      "answer" : 4
+    },
+    {
+      "question" : "Which of the following is also known as the Newton Raphson method?",
+      "choice1" : "Chord method",
+      "choice2" : "Tangent method",
+      "choice3" : "Diameter method",
+      "choice4" : "Secant method",
+      "choice5" : "None of the above",
+      "answer" : 2
+    },
+    {
+      "question" : "Apply Gauss Elimination method to solve the following equations. 2x-y+3z=9, x+y+z=6, x-y+z=2",
+      "choice1" : "x=-13, y=1, z=-8",
+      "choice2" : "x= 13, y=1, z=-8",
+      "choice3" : "x=-13, y= 4, z=15",
+      "choice4" : "x=5, y=14, z=5",
+      "choice5" : "None of the above",
+      "answer" : 3
+    },
+    {
+      "question" : "Which of the following transformations are allowed in the Gauss Jordan method?",
+      "choice1" : "Swapping a column",
+      "choice2" : "Swapping two rows",
+      "choice3" : "Swapping two columns",
+      "choice4" : "Swapping a row",
+      "choice5" : "None of the above",
+      "answer" : 2
+    },
+    {
+      "question" : "Secant Method is also called as?",
+      "choice1" : "5-point method",
+      "choice2" : "2-point method",
+      "choice3" : "3-point method",
+      "choice4" : "4-point method",
+      "choice5" : "None of the above",
+      "answer" : 2
+    },
+    {
       "question" : "I. If in some instances that we will have with us the availability of an analytical solution then we will have the capability to compute the error approximately. II. A function typically changes sign in the vicinity of a root.",
       "choice1" : "True",
       "choice2" : "False",
