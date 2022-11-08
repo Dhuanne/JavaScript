@@ -26,4 +26,9 @@ saveHighScore = (e) => {
 
     localStorage.setItem('scores', JSON.stringify(highScores));
     window.location.assign('/');
+
+    window.location.href = "questions/softEngQuestions.html"   
 };
+
+
+
