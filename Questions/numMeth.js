@@ -163,7 +163,7 @@ var quiz = {
         },
         {
             "id": 11,
-            "question": "User requirements are typically stated in natural language",
+            "question": "User requirements are typically stated in natural language.",
             "options": [
                 {
                     "a" : "True",
@@ -176,7 +176,7 @@ var quiz = {
         },
         {
             "id": 12,
-            "question": "A Software software is not physical or tangible in the traditional sense",
+            "question": "Software is abstracted and intangible.",
             "options": [
                 {
                     "a" : "True",
