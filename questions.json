@@ -1,0 +1,101 @@
+[
+  {
+      "question" : "Which of the following is NOT included in Generic Process Models?",
+      "choice1" : "Waterfall model",
+      "choice2" : "Evolutionary development",
+      "choice3" : "Formal systems development",
+      "choice4" : "Use-based development",
+      "choice5" : "None of the above",
+      "answer" : 3
+  },
+
+  {
+      "question" : "Which of the following is NOT included in Specific Process Models?",
+      "choice1" : "Incremental model",
+      "choice2" : "Object-Based Development Model",
+      "choice3" : "Spiral Development Model",
+      "choice4" : "Package-Based Development Model",
+      "choice5" : "None of the above",
+      "answer" : 2
+  },
+
+  {
+      "question" : "Which of the following is NOT included in Characteristics of Software?",
+      "choice1" : "Software does “wear out”",
+      "choice2" : "Software is abstract and intangible",
+      "choice3" : "Software is developed or engineered; it is not manufactured in the classical sense",
+      "choice4" : "Most software is custom-built, rather than being assembled from existing components",
+      "choice5" : "None of the above",
+      "answer" : 1
+  },
+
+  {
+      "question" : "Which of the following is NOT included in Fundamental Process Activities of Software Process?",
+      "choice1" : "Specification",
+      "choice2" : "Development",
+      "choice3" : "Validation",
+      "choice4" : "Evolution",
+      "choice5" : "None of the above",
+      "answer" : 5
+  },
+
+  {
+      "question" : "Which of the following is NOT an advantage of the Waterfall Model?",
+      "choice1" : "Very clear from a managerial viewpoint - easy to model, plan, monitor, and understand",
+      "choice2" : "Many existing tools support this model",
+      "choice3" : "Development is relatively slow and deliberate and thus, results in solid, well-constructed systems",
+      "choice4" : "Last explicit process model",
+      "choice5" : "None of the above",
+      "answer" : 4
+  },
+
+  {
+      "question" : "Which of the following is NOT a description of Waterfall model?",
+      "choice1" : "Linear sequential model",
+      "choice2" : "Describe a set of clear stages in the development process",
+      "choice3" : "Based on engineering practice",
+      "choice4" : "Still used for large systems engineering projects",
+      "choice5" : "None of the above",
+      "answer" : 5
+  },
+
+  {
+      "question" : "Which of the following is NOT a disadvantage of Evolutionary Development?",
+      "choice1" : "Cost, time, and resource estimation is difficult",
+      "choice2" : "Process is not visible",
+      "choice3" : "Progress is difficult to measure",
+      "choice4" : "Less effective than waterfall model",
+      "choice5" : "None of the above",
+      "answer" : 4
+  },
+
+  {
+      "question" : "Which of the following is NOT a description of Incremental model?",
+      "choice1" : "Suggested by Mills 1980",
+      "choice2" : "In between waterfall and evolutionary",
+      "choice3" : "Increase rework in the development process",
+      "choice4" : "Give customers opportunity to delay decisions",
+      "choice5" : "None of the above",
+      "answer" : 3
+  },
+
+  {
+      "question" : "Which of the following is NOT an advantage of Spiral Development Model?",
+      "choice1" : "Delayed error elimination",
+      "choice2" : "Puts quality objectives up front",
+      "choice3" : "Integrates development and maintenance",
+      "choice4" : "Provides a framework for simultaneous hardware/software development",
+      "choice5" : "None of the above",
+      "answer" : 1
+  },
+
+  {
+      "question" : "Which of the following is NOT included in best practices for Rational Unified Process?",
+      "choice1" : "Develop software iteratively",
+      "choice2" : "Manage requirements",
+      "choice3" : "Component based architecture",
+      "choice4" : "Visually model software",
+      "choice5" : "None of the above",
+      "answer" : 5
+  }
+]

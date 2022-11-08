@@ -1,0 +1,141 @@
+[
+    {
+      "question" : "It is often a straightforward proposition to determine the performance of a system as a function of its parameters.",
+      "choice1" : "Large versus systems",
+      "choice2" : "Nonlinear versus linear",
+      "choice3" : "Design",
+      "choice4" : "Sensitivity analysis",
+      "choice5" : "None of the above",
+      "answer" : 3
+    },
+
+    {
+      "question" : "This is the discrepancy between an exact value and some approximation to it.",
+      "choice1" : "Round-off errors",
+      "choice2" : "Total numerical error",
+      "choice3" : "Truncation error",
+      "choice4" : "Approximation error",
+      "choice5" : "None of the above",
+      "answer" : 4
+    },
+  
+    {
+      "question" : "This is the summation of the truncation and round-off errors.",
+      "choice1" : "Round-off errors",
+      "choice2" : "Total numerical error",
+      "choice3" : "Truncation error",
+      "choice4" : "Approximation error",
+      "choice5" : "None of the above",
+      "answer" : 2
+    },
+  
+    {
+      "question" : "_________ refers to how closely a computed or measured value agrees with the true value.",
+      "choice1" : "Precision",
+      "choice2" : "True value",
+      "choice3" : "Accuracy",
+      "choice4" : "Round-off errors",
+      "choice5" : "None of the above",
+      "answer" : 3
+    },
+  
+    {
+      "question" : "It is a special type of software that allows the user to enter and perform calculations on rows and columns of data.",
+      "choice1" : "Excel",
+      "choice2" : "Matlab",
+      "choice3" : "Mathcad",
+      "choice4" : "Gitlab",
+      "choice5" : "None of the above",
+      "answer" : 1
+    },
+    {
+      "question" : "If the true value of a measurement is 10.9 cm and the approximate value is 10.7 cm, what is the true error?",
+      "choice1" : "0.2 cm",
+      "choice2" : "1.8 cm",
+      "choice3" : "0.2 %",
+      "choice4" : "1.8 %",
+      "choice5" : "None of the above",
+      "answer" : 1
+    },
+    {
+      "question" : "If the true value of a measurement is 10.9 cm and the approximate value is 10.7 cm, what is the true relative error:",
+      "choice1" : "0.2 cm",
+      "choice2" : "1.8 cm",
+      "choice3" : "0.2 %",
+      "choice4" : "1.8 %",
+      "choice5" : "None of the above",
+      "answer" : 4
+    },
+    {
+      "question" : "Solving the function f(x)=4x3-15x2+17x+6 using the Newton-Raphson method with a starting value of x = 0, the first iteration yields a value of x equal to:",
+      "choice1" : "0.3529",
+      "choice2" : "- 0.3529",
+      "choice3" : "6",
+      "choice4" : "17",
+      "choice5" : "None of the above",
+      "answer" : 3
+    },
+    {
+      "question" : "Using Bairstow’s method to solve the roots of the equation f(x) = x^4 - x - 10 with starting values r = 0.1 and s = 0.1, the first iteration yields:",
+      "choice1" : "r = 1.251, s = 0.113",
+      "choice2" : "r = - 3.145, s = 4.678",
+      "choice3" : "r = 1.315, s = 5.278",
+      "choice4" : "r = - 7.364, s = 13.579",
+      "choice5" : "None of the above",
+      "answer" : 4
+    },
+    {
+      "question" : "To solve the roots of the equation f(x)=4x^5-7x^2+8x-2 using simple fixed point iteration and initial value of x = 0.5 , which of the following formulations is converging?",
+      "choice1" : "x=4x^5-7x^2+9x-2",
+      "choice2" : "x=((7x^2-8x+2)/4)^(1/5)",
+      "choice3" : "x=(7x^2-8x+2)/x^4",
+      "choice4" : "x=((4x^5-7x^2-2)/(-8)",
+      "choice5" : "None of the above",
+      "answer" : 3
+    },
+    {
+        "question" : "I. If in some instances that we will have with us the availability of an analytical solution then we will have the capability to compute the error approximately. II. A function typically changes sign in the vicinity of a root.",
+        "choice1" : "True",
+        "choice2" : "False",
+        "choice3" : "Both are True",
+        "choice4" : "Both are False",
+        "choice5" : "None of the above",
+        "answer" : 5
+      },
+      {
+        "question" : "I. An exception to the general case is that when the function is tangential to the x axis and the end points are of opposite signs, there are an even number of axis intersections for the interval. II. Graphical techniques are of limited practical value because they are not precise but they can be utilized to obtain rough estimates of roots.",
+        "choice1" : "True",
+        "choice2" : "False",
+        "choice3" : "Both are True",
+        "choice4" : "Both are False",
+        "choice5" : "None of the above",
+        "answer" : 3
+      },
+      {
+        "question" : "I. Given an upper bound and a lower bound, when a function changes sign in an interval, then there will generally be an even number of roots. II. In the bisection algorithm, to determine the subinterval in the next iteration, the following conditional statement is legitimate: If f(xuf(xr) is negative, the root lies in the lower subinterval.",
+        "choice1" : "True",
+        "choice2" : "False",
+        "choice3" : "Both are True",
+        "choice4" : "Both are False",
+        "choice5" : "None of the above",
+        "answer" : 4
+      },
+      {
+        "question" : "I. The secant method uses the derivative instead of a difference to estimate the slope. II. Muller’s method uses the idea of projecting a line through two points on the x-axis to estimate the root.",
+        "choice1" : "True",
+        "choice2" : "False",
+        "choice3" : "Both are True",
+        "choice4" : "Both are False",
+        "choice5" : "None of the above",
+        "answer" : 4
+      },
+      {
+        "question" : "I. Bairstow’s method is generally based on the mathematical process of dividing a polynomial by a quadratic factor. II. The bisection method, which is alternatively called binary chopping, interval halving, or Bolzano’s method, is one type of incremental search method in which the interval is always divided in half.",
+        "choice1" : "True",
+        "choice2" : "False",
+        "choice3" : "Both are True",
+        "choice4" : "Both are False",
+        "choice5" : "None of the above",
+        "answer" : 3
+      }
+  ]
