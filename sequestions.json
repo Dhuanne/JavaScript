@@ -99,6 +99,51 @@
       "answer" : 5
   },
   {
+    "question" : "Software is defined as?",
+    "choice1" : "Set of programs, documentation & configuration of data",
+    "choice2" : "Set of programs",
+    "choice3" : "Set of hardwares",
+    "choice4" : "documentation and configuration of data",
+    "choice5" : "None of the above",
+    "answer" : 1
+  },
+  {
+    "question" : "What is Software Engineering?",
+    "choice1" : "Designing a software",
+    "choice2" : "Testing a software",
+    "choice3" : "Set of hardwares",
+    "choice4" : "Application of engineering principles to the design a software",
+    "choice5" : "None of the above",
+    "answer" : 4
+  },
+  {
+    "question" : "Who is the father of Software Engineering?",
+    "choice1" : "Margaret Hamilton",
+    "choice2" : "Watts S. Humphrey",
+    "choice3" : "Alan Turing",
+    "choice4" : "Boris Beizer",
+    "choice5" : "None of the above",
+    "answer" : 2
+  },
+  {
+    "question" : "___ is a software development activity that is not a part of software processes.",
+    "choice1" : "Validation",
+    "choice2" : "Specification",
+    "choice3" : "Development",
+    "choice4" : "Dependence",
+    "choice5" : "None of the above",
+    "answer" : 4
+  },
+  {
+    "question" : "___ is defined as the process of generating analysis and designing documents?",
+    "choice1" : "Re-engineering",
+    "choice2" : "Reverse engineering",
+    "choice3" : "Software re-engineering",
+    "choice4" : "Science and engineering",
+    "choice5" : "None of the above",
+    "answer" : 2
+  },
+  {
     "question" : "I. User requirements are typically stated in natural language. II. A Software software is not physical or tangible in the traditional sense",
     "choice1" : "Statement I is True, Statement II is False",
     "choice2" : "Statement I is False, Statement II is True",
