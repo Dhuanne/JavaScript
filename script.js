@@ -13,3 +13,6 @@ function teacherValidate() {
 function studentValidate() {
     window.location.href = "questions.html"
 }
+function studentValidates() {
+    window.location.href = "nmquestions.html"
+}
