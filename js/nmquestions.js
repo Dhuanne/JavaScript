@@ -25,7 +25,7 @@ fetch('nmquestions.json')
 
 //CONSTANTS
 const CORRECT_BONUS = 2;
-const MAX_QUESTIONS = 15;
+const MAX_QUESTIONS = 25;
 
 startGame = () => {
     questionCounter = 0;
