@@ -11,8 +11,8 @@ function teacherValidate() {
 }
 // Validates Student
 function studentValidate() {
-    window.location.href = "sequestions.html"
+    window.location.href = "/questions/sequestions.html"
 }
 function studentValidates() {
-    window.location.href = "nmquestions.html"
+    window.location.href = "/questions/nmquestions.html"
 }
