@@ -11,7 +11,7 @@ function teacherValidate() {
 }
 // Validates Student
 function studentValidate() {
-    window.location.href = "questions.html"
+    window.location.href = "sequestions.html"
 }
 function studentValidates() {
     window.location.href = "nmquestions.html"
