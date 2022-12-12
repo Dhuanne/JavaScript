@@ -232,5 +232,43 @@
     "choice4" : "Both are False",
     "choice5" : "None of the above",
     "answer" : 3
-}
+},
+
+{
+    "question" : "Software is a process and ——————————.",
+    "answer" : "product"
+  },
+  {
+    "question" : "Software engineering is a ——————————.",
+    "answer" : "Discipline"
+  },
+  {
+    "question" : "The ——————————— method is also known as the iterative enhancement model.",
+    "answer" : "Incremental"
+  },
+  {
+    "question" : "The definition phase of software engineering includes tasks such as system engineering,software project planning and ————————",
+    "answer" : "Requirement Analysis"
+  },
+
+  {
+    "question" : "—————————————— results in modification to the software to accommodate changes to its external environment.",
+    "answer" : "Adaptive maintenance"
+  },
+
+  {
+    "question" : "In Water fall model, the phases involved in the software development are organized in———————————.",
+    "answer" : "Linear Order"
+  },
+
+  {
+    "question" : "_______________ studies the functionality in detail to find where the bugs are likely to occur.",
+    "answer" : "testers"
+  },
+
+  {
+    "question" : "Testers create test cases in such a way that testing is done to uncover the _____________________",
+    "answer" : "bugs"
+  }
+
 ]
